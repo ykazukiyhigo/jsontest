@@ -66,5 +66,20 @@
       "time": "2024-11-11 08:58:45",
       "status": "outside"
     }
-  ]
+  ],
+    "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    },
+    {
+      "id": 2,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
 }
