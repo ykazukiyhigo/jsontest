@@ -1,8 +1,70 @@
 {
   "posts": [
     {
-      "id": 1,
-      "title": "hello"
+      "user_id": "00000000000001",
+      "location": "ABCDEFGH",
+      "time": "2024-11-11 10:03:04",
+      "status": "outside"
+    },
+    {
+      "user_id": "00000000000002",
+      "location": "ABCDEFGH",
+      "time": "2024-11-11 09:34:10",
+      "status": "inside"
+    },
+    {
+      "user_id": "00000000000003",
+      "location": "ABCDEFGH",
+      "time": "2024-11-11 09:41:17",
+      "status": "inside"
+    },
+    {
+      "user_id": "00000000000004",
+      "location": "ABCDEFGH",
+      "time": "2024-11-11 09:59:58",
+      "status": "inside"
+    },
+    {
+      "user_id": "00000000000005",
+      "location": "ABCDEFGHI",
+      "time": "2024-11-11 09:28:20",
+      "status": "inside"
+    },
+    {
+      "user_id": "00000000000006",
+      "location": "ABCDEFGHI",
+      "time": "2024-11-11 10:00:19",
+      "status": "outside"
+    },
+    {
+      "user_id": "00000000000007",
+      "location": "ABCDEFG",
+      "time": "2024-11-11 09:16:42",
+      "status": "inside"
+    },
+    {
+      "user_id": "00000000000008",
+      "location": "ABCDEFG",
+      "time": "2024-11-11 08:48:52",
+      "status": "inside"
+    },
+    {
+      "user_id": "00000000000009",
+      "location": "ABCDEF",
+      "time": "2024-11-11 10:01:13",
+      "status": "inside"
+    },
+    {
+      "user_id": "00000000000010",
+      "location": "ABCDEF",
+      "time": "2024-11-11 08:35:39",
+      "status": "inside"
+    },
+    {
+      "user_id": "00000000000011",
+      "location": "ABCDEF",
+      "time": "2024-11-11 08:58:45",
+      "status": "outside"
     }
   ],
   "profile": {
